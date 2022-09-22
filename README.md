@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/medusaolimpo/3c569fe7-1064-4f04-991f-c850b374a25e/b719bc87-af79-48c1-aa7a-412f45e616a6/_apis/work/boardbadge/31110c9c-63b3-428d-8957-0c24853b27b6)](https://dev.azure.com/medusaolimpo/3c569fe7-1064-4f04-991f-c850b374a25e/_boards/board/t/b719bc87-af79-48c1-aa7a-412f45e616a6/Microsoft.RequirementCategory)
